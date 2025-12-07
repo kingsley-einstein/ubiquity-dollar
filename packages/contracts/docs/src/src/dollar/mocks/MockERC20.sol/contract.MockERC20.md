@@ -1,5 +1,5 @@
 # MockERC20
-[Git Source](https://github.com/ubiquity/ubiquity-dollar/blob/386de2abb8d1171ab47c0b149dede7c48631259f/src/dollar/mocks/MockERC20.sol)
+[Git Source](https://github.com/ubiquity/ubiquity-dollar/blob/b3082cd78c54c73c487f0fe24d8f9b24a6ac0c9e/src/dollar/mocks/MockERC20.sol)
 
 **Inherits:**
 ERC20
